@@ -97,6 +97,4 @@ The application interacts with the following API endpoints:
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any improvements.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
